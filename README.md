@@ -60,12 +60,12 @@ I’m a dedicated **Full Stack Developer** based in 🇸🇳 Senegal, blending a
 
 ## 📫 Let’s Connect!  
 I’m always ready for new challenges, collaborations or simply to share ideas.  
-<div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-smrs.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://smrs.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seydina-mouhamed-rassoul-sow-a3a3b955)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mouha7)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydina.mrs@gmail.com)  
-</div>
+<p align="center">
+  <a href="https://smrs.vercel.app"><img src="https://img.shields.io/badge/Portfolio-smrs.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/seydina-mouhamed-rassoul-sow-a3a3b955"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Mouha7"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:seydina.mrs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
