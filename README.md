@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Seydina Mouhamed Rassoul Sow
-
 <div align="center">
+  <h1>👋 Hi, I'm Seydina Mouhamed Rassoul Sow</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Passionate+about+Tech+%F0%9F%92%BB;Building+Impactful+Solutions+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
@@ -31,14 +30,16 @@ I’m a dedicated **Full Stack Developer** based in 🇸🇳 Senegal, blending a
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Oracle SQL](https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-/Supabase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Design & Patterns  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Photoshop-/Illustrator-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)  
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
 ## 🚀 Featured Projects  
@@ -48,14 +49,16 @@ I’m a dedicated **Full Stack Developer** based in 🇸🇳 Senegal, blending a
 **Tech Stack:** React · TypeScript · Tailwind CSS · MongoDB · Node.js
 
 ### ⚡ Senelec Equipment & Mission App  
-> Built an end-to-end mobile & web system: Flutter (mobile) + Angular (web) + FastAPI (backend) for field teams managing equipment, intervention requests and mission orders. Focus on UX/UX, architecture and scalability. (Jul–Nov 2025)  
+> Built an end-to-end mobile & web system: Flutter (mobile) + Angular (web) + FastAPI (backend) for field teams managing equipment, intervention requests and mission orders. Focus on UI/UX, architecture and scalability. (Jul–Nov 2025)  
 **Tech Stack:** Flutter · Angular · FastAPI · PostgreSQL · Python
 
 ## 📈 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mouha7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://img.shields.io/jupyter-notebook/process?username=Mouha7" alt="" />
-  <img src="https://img.shields.io/badge/Contributions-active-33A0FF?style=for-the-badge" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouha7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mouha7&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📫 Let’s Connect!  
