@@ -1,76 +1,37 @@
-<div align="center">
-  <h1>👋 Hi, I'm Seydina Mouhamed Rassoul Sow</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Passionate+about+Tech+%F0%9F%92%BB;Building+Impactful+Solutions+%E2%9C%A8" alt="Typing SVG" />
-</div>
+# Seydina Mouhamed Rassoul Sow
 
-## 🙋‍♂️ About Me  
-I’m a dedicated **Full Stack Developer** based in 🇸🇳 Senegal, blending a solid foundation in software & networks with hands-on web and mobile development. My passion lies in crafting intuitive UI/UX, automating workflows, and building scalable systems that solve real-world problems. I enjoy working both on the client and server side, and thrive in environments where architecture, performance and maintainability matter.
+**Full stack & AI developer in Dakar.** I build AI agents and business platforms that actually run, for West Africa: WhatsApp agents, offline field apps, mobile money payments.
 
-## 🛠️ Tech Stack  
+🇫🇷 Version française, case studies et agent IA : **[smrs.dev](https://www.smrs.dev/?utm_source=github&utm_medium=profile)**
 
-### Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+## What I've shipped
 
-### Backend & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+| Project | What it is | Status |
+|---|---|---|
+| **[OTTO](https://www.smrs.dev/en/work/otto/?utm_source=github&utm_medium=profile)** | Car insurance sold over WhatsApp and through a broker dashboard, for Sanoo InsurTech. Multi-provider LLM engine, RAG, OCR, mobile money. | Pilot |
+| **[Field Management](https://www.smrs.dev/en/work/field-management-promobile/?utm_source=github&utm_medium=profile)** | Offline sales-force app for a telecom operator (Promobile): 11 FastAPI services, Angular + Capacitor, ≈ 3,000 tests, a 66-check QA gate. | Live on the client's server |
+| **[Daara](https://www.smrs.dev/en/work/daara/?utm_source=github&utm_medium=profile)** | School enrollment with fees paid by Wave or Orange Money, built on Gibbon. Live one week after the first commit. | Production |
+| **[Senelec CMMS](https://www.smrs.dev/en/work/gmao-senelec/?utm_source=github&utm_medium=profile)** | Flutter and Angular app for field technicians, on top of the existing SQL Server database. | Pilot |
+| **[Tirage](https://www.smrs.dev/en/work/tirage/?utm_source=github&utm_medium=profile)** | Verifiable prize draws (SHA-256 commit-reveal, HMAC, tamper-evident audit log, PDF proof), used for Promobile's Magal and Gamou campaigns. | Production |
 
-### Databases & DevOps  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Oracle SQL](https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Client code stays private. The case studies explain the problem, the architecture and what changed.
 
-### Design & Patterns  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)  
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+## Open code
 
-## 🚀 Featured Projects  
+- **[komkom_pro](https://github.com/Mouha7/komkom_pro)**: event-driven microservices e-commerce platform with a mobile app (FastAPI, Keycloak, RabbitMQ sagas, Redis, Traefik).
+- **Gibbon**: five fixes contributed to the open-source school platform while building Daara ([#2196](https://github.com/GibbonEdu/core/pull/2196), [#2197](https://github.com/GibbonEdu/core/pull/2197), [#2198](https://github.com/GibbonEdu/core/pull/2198), [#2199](https://github.com/GibbonEdu/core/pull/2199), [#2200](https://github.com/GibbonEdu/core/pull/2200)).
+- **Machine learning** (MSc AI & Big Data): [house-price prediction with data-drift monitoring](https://github.com/Mouha7/prediction-prix-habitations-inde), [malware classification served with FastAPI](https://github.com/Mouha7/malware_classification_ml).
+- **[promobile-nouvelles-offres](https://github.com/Mouha7/promobile-nouvelles-offres)**: a 76 KB static microsite for a telecom offers launch.
 
-### 🌿 BioNature  
-> Developed a web e-commerce platform for a Senegalese brand showcasing tropical fruits and brand story. Responsive shopping cart, intuitive UX, fast performance. (May–Jun 2025)  
-**Tech Stack:** React · TypeScript · Tailwind CSS · MongoDB · Node.js
+## How I work
 
-### ⚡ Senelec Equipment & Mission App  
-> Built an end-to-end mobile & web system: Flutter (mobile) + Angular (web) + FastAPI (backend) for field teams managing equipment, intervention requests and mission orders. Focus on UI/UX, architecture and scalability. (Jul–Nov 2025)  
-**Tech Stack:** Flutter · Angular · FastAPI · PostgreSQL · Python
+A written spec, a prototype you can test early, a real production launch on your servers, documentation handed over.
 
-## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mouha7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouha7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mouha7&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+**Day to day:** FastAPI · PostgreSQL/PostGIS · Angular · Flutter · React · Docker Compose & Traefik · Keycloak · Kafka · RabbitMQ · Playwright · multi-provider LLMs (RAG, OCR) · scikit-learn · Spark
 
-## 📫 Let’s Connect!  
-I’m always ready for new challenges, collaborations or simply to share ideas.  
-<p align="center">
-  <a href="https://www.smrs.dev"><img src="https://img.shields.io/badge/Portfolio-smrs.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/seydina-mrs"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Mouha7"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:seydina.mrs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+## Now
 
----
+- MSc AI & Big Data, year 2, at ESP (Cheikh Anta Diop University, Dakar).
+- **Available:** full-time role, fixed-term contract or freelance project.
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House  
-**⭐ From [Seydina Mouhamed Rassoul Sow](https://github.com/Mouha7) with ❤️ from Senegal 🇸🇳**
+**Contact:** [smrs.dev](https://www.smrs.dev/en/contact/?utm_source=github&utm_medium=profile) · contact@smrs.dev · [LinkedIn](https://www.linkedin.com/in/seydina-mrs/) · WhatsApp +221 75 720 17 17
